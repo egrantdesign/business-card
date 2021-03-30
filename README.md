@@ -1,2 +1,2 @@
-# egrantdesign.github.io
-Business Card
+# boilerPlate
+basic starting file structure for Umass Dartmouth
